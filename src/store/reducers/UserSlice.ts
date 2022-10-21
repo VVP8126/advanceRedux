@@ -1,7 +1,6 @@
 import { IUser } from "../../model/IUser";
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { stat } from "fs";
-import { fetchUsers, loadUsers } from "./ActionCreators";
+import { loadUsers } from "./ActionCreators";
 
 interface UserState {
     users: IUser[];

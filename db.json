@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title 01",
+      "body": "Bla bla bla bla bla bla"
+    },
+    {
+      "id": 2,
+      "title": "Title 02",
+      "body": "Blablablabl blablablabl"
+    },
+    {
+      "id": 3,
+      "title": "Title 03",
+      "body": "Bla blablab bla blablab"
+    },
+    {
+      "id": 4,
+      "title": "Title 04",
+      "body": "Bla Bla Bla Bla Bla Bla"
+    },
+    {
+      "id": 5,
+      "title": "Title 05",
+      "body": "Bla BLA bla Bla BLA bla"
+    },
+    {
+      "id": 6,
+      "title": "Title 06",
+      "body": "BLA BLA BLA BLA BLA BLA"
+    },
+    {
+      "id": 7,
+      "title": "Title 07",
+      "body": "bla bla bla bla bla bla"
+    },
+    {
+      "id": 8,
+      "title": "Title 08",
+      "body": "Blabla blab blabla blab"
+    },
+    {
+      "title": "Ha hah ahha ha",
+      "body": "BLA-A-A-A-A-A-A",
+      "id": 11
+    },
+    {
+      "title": "Tititi",
+      "body": "Bu bu bu bub ubub ubu b",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

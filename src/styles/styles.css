@@ -26,3 +26,23 @@
     width:100%;
     padding: 10px;
 }
+.postBtn {
+    padding: 5px;
+    cursor: pointer;
+}
+.padding2 {
+    padding:2px;
+}
+.centered {
+    text-align: center;
+}
+.margined {
+    margin:5px;
+}
+.displayFlex {
+    display: flex;
+}
+.postContainer {
+    margin-top:20px;
+    padding: 2px;
+}
